@@ -1,0 +1,54 @@
+
+body{
+            
+    background-image: url("../images/Triv-Checkered-Blue-Background.jpg");
+} 
+
+#content {
+    background-color: orange;
+    
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+
+}
+button{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 22px;
+    background-color: #279;
+    color: #fff;
+    border: 0px;
+    border-radius: 3px;
+    padding: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+#jumbotron{
+  background-color: red;
+}
+
+#timeleft {
+  color: red;
+}
+#questionblock {
+  color: white;
+  text-align: left;
+}
+#answerblock {
+  color: yellow;
+  text-align: left;
+  font-size: 30px;
+
+  
+}
+
+.wrapper {
+  text-align: center;
+}
+
+#start {
+  margin-top: 60px;
+  font-size: 40px;
+}
+
